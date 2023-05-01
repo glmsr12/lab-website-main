@@ -1,0 +1,2699 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1038/s41698-023-00354-3
+  title: Germline rare deleterious variant load alters cancer risk, age of onset and
+    tumor characteristics
+  authors:
+  - Myvizhi Esai Selvan
+  - Kenan Onel
+  - Sacha Gnjatic
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: npj Precision Oncology
+  date: '2023-01-27'
+  link: https://doi.org/grxpzf
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.07.02.21259537
+  title: Germline rare deleterious variant load alters cancer risk, age of onset and
+    tumor characteristics
+  authors:
+  - Myvizhi Esai Selvan
+  - Kenan Onel
+  - Sacha Gnjatic
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-07-07'
+  link: https://doi.org/grxpzm
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jtho.2022.10.002
+  title: 'SCLC: Epidemiology, Risk Factors, Genetic Susceptibility, Molecular Pathology,
+    Screening, and Early Detection'
+  authors:
+  - Qian Wang
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Cristina Colarossi
+  - Lorenzo Memeo
+  - Xintong Wang
+  - Chung Yin Kong
+  - Paolo Boffetta
+  publisher: Journal of Thoracic Oncology
+  date: '2023-01-01'
+  link: https://doi.org/grzhkd
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.EPI-22-0053
+  title: SNPs at <i>SMG7</i> Associated with Time from Biochemical Recurrence to Prostate
+    Cancer Death
+  authors:
+  - Xiaoyu Song
+  - Meng Ru
+  - Zoe Steinsnyder
+  - Kaitlyn Tkachuk
+  - Ryan P. Kopp
+  - John Sullivan
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Kenneth Offit
+  - Vijai Joseph
+  - Robert J. Klein
+  publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
+  date: '2022-05-05'
+  link: https://doi.org/grxpzg
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42003-022-03572-w
+  title: 'Author Correction: Brain aging is faithfully modelled in organotypic brain
+    slices and accelerated by prions'
+  authors:
+  - Yingjun Liu
+  - Assunta Senatore
+  - Silvia Sorce
+  - Mario Nuvolone
+  - Jingjing Guo
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Adriano Aguzzi
+  publisher: Communications Biology
+  date: '2022-06-20'
+  link: https://doi.org/grxpzh
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.06.479288
+  title: Brain aging is faithfully modelled in organotypic brain slices and accelerated
+    by prions
+  authors:
+  - Yingjun Liu
+  - Assunta Senatore
+  - Silvia Sorce
+  - Mario Nuvolone
+  - Jingjing Guo
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Adriano Aguzzi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-06'
+  link: https://doi.org/grxpzk
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42003-022-03496-5
+  title: Brain aging is faithfully modelled in organotypic brain slices and accelerated
+    by prions
+  authors:
+  - Yingjun Liu
+  - Assunta Senatore
+  - Silvia Sorce
+  - Mario Nuvolone
+  - Jingjing Guo
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Adriano Aguzzi
+  publisher: Communications Biology
+  date: '2022-06-08'
+  link: https://doi.org/grxpzj
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21037/tlcr-21-698
+  title: "Are polygenic risk scores ready for the cancer clinic?\u2014a perspective"
+  authors:
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Translational Lung Cancer Research
+  date: '2022-05-01'
+  link: https://doi.org/grzhkf
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.EPI-21-1287
+  title: Germline Pathogenic Variants Impact Clinicopathology of Advanced Lung Cancer
+  authors:
+  - Semanti Mukherjee
+  - Chaitanya Bandlamudi
+  - Matthew D. Hellmann
+  - Yelena Kemel
+  - Esther Drill
+  - Hira Rizvi
+  - Kaitlyn Tkachuk
+  - Aliya Khurram
+  - Michael F. Walsh
+  - Marjorie G. Zauderer
+  - Diana Mandelker
+  - Sabine Topka
+  - Ahmet Zehir
+  - Preethi Srinivasan
+  - Myvizhi Esai Selvan
+  - Maria I. Carlo
+  - Karen A. Cadoo
+  - Alicia Latham
+  - Jada G. Hamilton
+  - Ying L. Liu
+  - Steven M. Lipkin
+  - Sami Belhadj
+  - Gareth L. Bond
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Robert J. Klein
+  - Marc Ladanyi
+  - David B. Solit
+  - Mark E. Robson
+  - David R. Jones
+  - Mark G. Kris
+  - Joseph Vijai
+  - Zsofia K. Stadler
+  - Christopher I. Amos
+  - Barry S. Taylor
+  - Michael F. Berger
+  - Charles M. Rudin
+  - Kenneth Offit
+  publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
+  date: '2022-04-27'
+  link: https://doi.org/grzhkg
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41388-021-01697-6
+  title: Generation of TRAIL-resistant cell line models reveals distinct adaptive
+    mechanisms for acquired resistance and re-sensitization
+  authors:
+  - "Ahmet Cing\xF6z"
+  - Ezgi Ozyerli-Goknar
+  - Tunc Morova
+  - Fidan Seker-Polat
+  - Myvizhi Esai Selvan
+  - "Zeynep H\xFClya G\xFCm\xFC\u015F"
+  - Deepak Bhere
+  - Khalid Shah
+  - Ihsan Solaroglu
+  - Tugba Bagci-Onder
+  publisher: Oncogene
+  date: '2021-03-25'
+  link: https://doi.org/grxpzn
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.29.21250755
+  title: A Molecular network approach reveals shared cellular and molecular signatures
+    between chronic fatigue syndrome and other fatiguing illnesses
+  authors:
+  - Phillip H. Comella
+  - Edgar Gonzalez-Kozlova
+  - Roman Kosoy
+  - Alexander W. Charney
+  - Irene Font Peradejordi
+  - Shreya Chandrasekar
+  - Scott R. Tyler
+  - Wenhui Wang
+  - Bojan Losic
+  - Jun Zhu
+  - Gabriel E. Hoffman
+  - Seunghee Kim-Schulze
+  - Jingjing Qi
+  - Manishkumar Patel
+  - Andrew Kasarskis
+  - Mayte Suarez-Farinas
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Carmen Argmann
+  - Miriam Merad
+  - Christian Becker
+  - Noam D. Beckmann
+  - Eric E. Schadt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-02-02'
+  link: https://doi.org/gj9sgb
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2021.07.016
+  title: A proteogenomic portrait of lung squamous cell carcinoma
+  authors:
+  - Shankha Satpathy
+  - Karsten Krug
+  - Pierre M. Jean Beltran
+  - Sara R. Savage
+  - Francesca Petralia
+  - Chandan Kumar-Sinha
+  - Yongchao Dou
+  - Boris Reva
+  - M. Harry Kane
+  - Shayan C. Avanessian
+  - Suhas V. Vasaikar
+  - Azra Krek
+  - Jonathan T. Lei
+  - Eric J. Jaehnig
+  - Tatiana Omelchenko
+  - Yifat Geffen
+  - Erik J. Bergstrom
+  - Vasileios Stathias
+  - Karen E. Christianson
+  - David I. Heiman
+  - Marcin P. Cieslik
+  - Song Cao
+  - Xiaoyu Song
+  - Jiayi Ji
+  - Wenke Liu
+  - Kai Li
+  - Bo Wen
+  - Yize Li
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Myvizhi Esai Selvan
+  - Rama Soundararajan
+  - Tanvi H. Visal
+  - Maria G. Raso
+  - Edwin Roger Parra
+  - "\xD6zg\xFCn Babur"
+  - Pankaj Vats
+  - Shankara Anand
+  - Tobias Schraink
+  - MacIntosh Cornwell
+  - Fernanda Martins Rodrigues
+  - Houxiang Zhu
+  - Chia-Kuei Mo
+  - Yuping Zhang
+  - Felipe da Veiga Leprevost
+  - Chen Huang
+  - Arul M. Chinnaiyan
+  - Matthew A. Wyczalkowski
+  - Gilbert S. Omenn
+  - Chelsea J. Newton
+  - Stephan Schurer
+  - Kelly V. Ruggles
+  - "David Feny\xF6"
+  - Scott D. Jewell
+  - Mathangi Thiagarajan
+  - Mehdi Mesri
+  - Henry Rodriguez
+  - Sendurai A. Mani
+  - Namrata D. Udeshi
+  - Gad Getz
+  - James Suh
+  - Qing Kay Li
+  - Galen Hostetter
+  - Paul K. Paik
+  - Saravana M. Dhanasekaran
+  - Ramaswamy Govindan
+  - Li Ding
+  - Ana I. Robles
+  - Karl R. Clauser
+  - Alexey I. Nesvizhskii
+  - Pei Wang
+  - Steven A. Carr
+  - Bing Zhang
+  - D.R. Mani
+  - Michael A. Gillette
+  - Alex Green
+  - Alfredo Molinolo
+  - Alicia Francis
+  - Amanda G. Paulovich
+  - Andrii Karnuta
+  - Antonio Colaprico
+  - Barbara Hindenach
+  - Barbara L. Pruetz
+  - Bartosz Kubisa
+  - Brian J. Druker
+  - Carissa Huynh
+  - Charles A. Goldthwaite
+  - Chet Birger
+  - Christopher R. Kinsinger
+  - Corbin D. Jones
+  - Dan Rohrer
+  - Dana R. Valley
+  - Daniel W. Chan
+  - David Chesla
+  - Donna Hansel
+  - Elena V. Ponomareva
+  - Elizabeth Duffy
+  - Eric Burks
+  - Eric E. Schadt
+  - Eugene S. Fedorov
+  - Eunkyung An
+  - Fei Ding
+  - George D. Wilson
+  - Harsh Batra
+  - Hui Zhang
+  - Jennifer E. Maas
+  - Jennifer Eschbacher
+  - Karen A. Ketchum
+  - Karin D. Rodland
+  - Katherine A. Hoadley
+  - Kei Suzuki
+  - Ki Sung Um
+  - Liqun Qi
+  - Lori Bernard
+  - Maciej Wiznerowicz
+  - "Ma\u0142gorzata Wojty\u015B"
+  - Marcin J. Domagalski
+  - Matthew J. Ellis
+  - Maureen A. Dyer
+  - Melissa Borucki
+  - Meenakshi Anurag
+  - Michael J. Birrer
+  - Midie Xu
+  - Mikhail Krotevich
+  - Nancy Roche
+  - Nathan J. Edwards
+  - Negin Vatanian
+  - Neil R. Mucci
+  - Nicollette Maunganidze
+  - Nikolay Gabrovski
+  - Olga Potapova
+  - Oluwole Fadare
+  - Pamela Grady
+  - Peter B. McGarvey
+  - Pushpa Hariharan
+  - Ratna R. Thangudu
+  - Rebecca Montgomery
+  - Renganayaki Pandurengan
+  - Richard D. Smith
+  - Robert J. Welsh
+  - Sailaja Mareedu
+  - Samuel H. Payne
+  - Sandra Cottingham
+  - Shilpi Singh
+  - Shirley X. Tsang
+  - Shuang Cai
+  - Stacey Gabriel
+  - Tao Liu
+  - Tara Hiltke
+  - Tanmayi Vashist
+  - Thomas Bauer
+  - Volodymyr Sovenko
+  - Warren G. Tourtellotte
+  - Weiping Ma
+  - William Bocik
+  - Wohaib Hasan
+  - Xiaojun Jing
+  - Ximing Tang
+  - Yuxing Liao
+  - ' Yvonne'
+  - ' Shutack'
+  - Zhen Zhang
+  - Ziad Hanhan
+  publisher: Cell
+  date: '2021-08-01'
+  link: https://doi.org/gmfd4r
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1940-6207.CAPR-20-0094
+  title: Functional Common and Rare <i>ERBB2</i> Germline Variants Cooperate in Familial
+    and Sporadic Cancer Susceptibility
+  authors:
+  - Riyue Bao
+  - Anita Ng
+  - Mark Sasaki
+  - Myvizhi Esai Selvan
+  - Alyna Katti
+  - Hyesan Lee
+  - Lei Huang
+  - Andrew D. Skol
+  - Cinzia Lavarino
+  - Hector Salvador
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Jaume Mora
+  - Kenan Onel
+  publisher: Cancer Prevention Research
+  date: '2021-01-08'
+  link: https://doi.org/grzhkh
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuron.2021.03.004
+  title: Novel ultra-rare exonic variants identified in a founder population implicate
+    cadherins in schizophrenia
+  authors:
+  - Todd Lencz
+  - Jin Yu
+  - Raiyan Rashid Khan
+  - Erin Flaherty
+  - Shai Carmi
+  - Max Lam
+  - Danny Ben-Avraham
+  - Nir Barzilai
+  - Susan Bressman
+  - Ariel Darvasi
+  - Judy H. Cho
+  - Lorraine N. Clark
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Joseph Vijai
+  - Robert J. Klein
+  - Steven Lipkin
+  - Kenneth Offit
+  - Harry Ostrer
+  - Laurie J. Ozelius
+  - Inga Peter
+  - Anil K. Malhotra
+  - Tom Maniatis
+  - Gil Atzmon
+  - "Itsik Pe\u2019er"
+  publisher: Neuron
+  date: '2021-05-01'
+  link: https://doi.org/gjx3gx
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.29.20115352
+  title: Novel Ultra-Rare Exonic Variants Identified in a Founder Population Implicate
+    Cadherins in Schizophrenia
+  authors:
+  - Todd Lencz
+  - Jin Yu
+  - Raiyan Rashid Khan
+  - Shai Carmi
+  - Max Lam
+  - Danny Ben-Avraham
+  - Nir Barzilai
+  - Susan Bressman
+  - Ariel Darvasi
+  - Judy H. Cho
+  - Lorraine N. Clark
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Joseph Vijai
+  - Robert J. Klein
+  - Steven Lipkin
+  - Kenneth Offit
+  - Harry Ostrer
+  - Laurie J. Ozelius
+  - Inga Peter
+  - Anil K. Malhotra
+  - Gil Atzmon
+  - "Itsik Pe\u2019er"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-30'
+  link: https://doi.org/grzhkp
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.14.032557
+  title: Ancestry-Specific Predisposing Germline Variants in Cancer
+  authors:
+  - Ninad Oak
+  - Andrew D. Cherniack
+  - R. Jay Mashl
+  - Fred R. Hirsch
+  - Li Ding
+  - Rameen Beroukhim
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Sharon E. Plon
+  - Kuan-lin Huang
+  - ' '
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-14'
+  link: https://doi.org/ggr7xw
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13073-020-00744-3
+  title: Ancestry-specific predisposing germline variants in cancer
+  authors:
+  - Ninad Oak
+  - ' '
+  - Andrew D. Cherniack
+  - R. Jay Mashl
+  - Fred R. Hirsch
+  - Li Ding
+  - Rameen Beroukhim
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Sharon E. Plon
+  - Kuan-lin Huang
+  publisher: Genome Medicine
+  date: '2020-05-29'
+  link: https://doi.org/gkmnxm
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.csbj.2020.04.003
+  title: Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on
+    local conformations and dynamics of K-Ras
+  authors:
+  - Sezen Vatansever
+  - Burak Erman
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/grkx8w
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.03.26.010710
+  title: Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on
+    local conformations and dynamics of K-Ras
+  authors:
+  - Sezen Vatansever
+  - Burak Erman
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-03-29'
+  link: https://doi.org/gk3rrh
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2020.107569
+  title: Comprehensive Immunoprofiling of Pediatric Zika Reveals Key Role for Monocytes
+    in the Acute Phase and No Effect of Prior Dengue Virus Infection
+  authors:
+  - Daniela Michlmayr
+  - Eun-Young Kim
+  - Adeeb H. Rahman
+  - Rohit Raghunathan
+  - Seunghee Kim-Schulze
+  - Yan Che
+  - Selim Kalayci
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Guillermina Kuan
+  - Angel Balmaseda
+  - Andrew Kasarskis
+  - Steven M. Wolinsky
+  - "Mayte Suar\xE9z-Fari\xF1as"
+  - Eva Harris
+  publisher: Cell Reports
+  date: '2020-04-01'
+  link: https://doi.org/grzhkj
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2019.12.026
+  title: Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma
+  authors:
+  - David J. Clark
+  - Saravana M. Dhanasekaran
+  - Francesca Petralia
+  - Jianbo Pan
+  - Xiaoyu Song
+  - Yingwei Hu
+  - Felipe da Veiga Leprevost
+  - Boris Reva
+  - Tung-Shing M. Lih
+  - Hui-Yin Chang
+  - Weiping Ma
+  - Chen Huang
+  - Christopher J. Ricketts
+  - Lijun Chen
+  - Azra Krek
+  - Yize Li
+  - Dmitry Rykunov
+  - Qing Kay Li
+  - Lin S. Chen
+  - Umut Ozbek
+  - Suhas Vasaikar
+  - Yige Wu
+  - Seungyeul Yoo
+  - Shrabanti Chowdhury
+  - Matthew A. Wyczalkowski
+  - Jiayi Ji
+  - Michael Schnaubelt
+  - Andy Kong
+  - Sunantha Sethuraman
+  - Dmitry M. Avtonomov
+  - Minghui Ao
+  - Antonio Colaprico
+  - Song Cao
+  - Kyung-Cho Cho
+  - Selim Kalayci
+  - Shiyong Ma
+  - Wenke Liu
+  - Kelly Ruggles
+  - Anna Calinawan
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Daniel Geiszler
+  - Emily Kawaler
+  - Guo Ci Teo
+  - Bo Wen
+  - Yuping Zhang
+  - Sarah Keegan
+  - Kai Li
+  - Feng Chen
+  - Nathan Edwards
+  - Phillip M. Pierorazio
+  - Xi Steven Chen
+  - Christian P. Pavlovich
+  - A. Ari Hakimi
+  - Gabriel Brominski
+  - James J. Hsieh
+  - Andrzej Antczak
+  - Tatiana Omelchenko
+  - Jan Lubinski
+  - Maciej Wiznerowicz
+  - W. Marston Linehan
+  - Christopher R. Kinsinger
+  - Mathangi Thiagarajan
+  - Emily S. Boja
+  - Mehdi Mesri
+  - Tara Hiltke
+  - Ana I. Robles
+  - Henry Rodriguez
+  - Jiang Qian
+  - "David Feny\xF6"
+  - Bing Zhang
+  - Li Ding
+  - Eric Schadt
+  - Arul M. Chinnaiyan
+  - Zhen Zhang
+  - Gilbert S. Omenn
+  - Marcin Cieslik
+  - Daniel W. Chan
+  - Alexey I. Nesvizhskii
+  - Pei Wang
+  - Hui Zhang
+  - Abdul Samad Hashimi
+  - Alexander R. Pico
+  - Alla Karpova
+  - Alyssa Charamut
+  - Amanda G. Paulovich
+  - Amy M. Perou
+  - Anna Malovannaya
+  - Annette Marrero-Oliveras
+  - Anupriya Agarwal
+  - Barbara Hindenach
+  - Barbara Pruetz
+  - Beom-Jun Kim
+  - Brian J. Druker
+  - Chelsea J. Newton
+  - Chet Birger
+  - Corbin D. Jones
+  - Cristina Tognon
+  - D.R. Mani
+  - Dana R. Valley
+  - Daniel C. Rohrer
+  - Daniel C. Zhou
+  - Darlene Tansil
+  - David Chesla
+  - David Heiman
+  - David Wheeler
+  - Donghui Tan
+  - Doug Chan
+  - Emek Demir
+  - Ewa Malc
+  - Francesmary Modugno
+  - Gaddy Getz
+  - Galen Hostetter
+  - George D. Wilson
+  - Gerald W. Hart
+  - Heng Zhu
+  - Hongwei Liu
+  - Houston Culpepper
+  - Hua Sun
+  - Hua Zhou
+  - Jacob Day
+  - James Suh
+  - Jasmine Huang
+  - Jason McDermott
+  - Jeffrey R. Whiteaker
+  - Jeffrey W. Tyner
+  - Jennifer Eschbacher
+  - Jin Chen
+  - John McGee
+  - Jun Zhu
+  - Karen A. Ketchum
+  - Karin D. Rodland
+  - Karl Clauser
+  - Karna Robinson
+  - Karsten Krug
+  - Katherine A. Hoadley
+  - Ki Sung Um
+  - Kim Elburn
+  - Kimberly Holloway
+  - Liang-Bo Wang
+  - Lili Blumenberg
+  - Linda Hannick
+  - Liqun Qi
+  - Lori J. Sokoll
+  - MacIntosh Cornwell
+  - Marc Loriaux
+  - Marcin J. Domagalski
+  - Marina A. Gritsenko
+  - Matthew Anderson
+  - Matthew E. Monroe
+  - Matthew J. Ellis
+  - Maureen Dyer
+  - Meenakshi Anurag
+  - Meghan C. Burke
+  - Melissa Borucki
+  - Michael A. Gillette
+  - Michael J. Birrer
+  - Michael Lewis
+  - Michael M. Ittmann
+  - Michael Smith
+  - Michael Vernon
+  - Michelle Chaikin
+  - Milan G. Chheda
+  - Munziba Khan
+  - Nancy Roche
+  - Nathan J. Edwards
+  - Negin Vatanian
+  - Nicole Tignor
+  - Noam Beckmann
+  - Pamela Grady
+  - Patricia Castro
+  - Paul Piehowski
+  - Peter B. McGarvey
+  - Piotr Mieczkowski
+  - Pushpa Hariharan
+  - Qingsong Gao
+  - Rajiv Dhir
+  - Ramani Bhupendra Kothadia
+  - Ratna R. Thangudu
+  - Rebecca Montgomery
+  - Reyka G. Jayasinghe
+  - Richard D. Smith
+  - Robert Edwards
+  - Robert Zelt
+  - Ross Bremner
+  - Ruiyang Liu
+  - Runyu Hong
+  - Sailaja Mareedu
+  - Samuel H. Payne
+  - Sandra Cottingham
+  - Sanford P. Markey
+  - Scott D. Jewell
+  - Shalin Patel
+  - Shankha Satpathy
+  - Shannon Richey
+  - Sherri R. Davies
+  - Shuang Cai
+  - Simina M. Boca
+  - Snehal Patil
+  - Sohini Sengupta
+  - Sonya Carter
+  - Stacey Gabriel
+  - Stefani N. Thomas
+  - Stephanie De Young
+  - Stephen E. Stein
+  - Steven A. Carr
+  - Steven M. Foltz
+  - Sue Hilsenbeck
+  - Tanya Krubit
+  - Tao Liu
+  - Tara Skelly
+  - Thomas Westbrook
+  - Uma Borate
+  - Uma Velvulou
+  - Vladislav A. Petyuk
+  - William E. Bocik
+  - Xi Chen
+  - Yan Shi
+  - Yifat Geffen
+  - Yihao Lu
+  - Ying Wang
+  - Yosef Maruvka
+  - Zhi Li
+  - Zhiao Shi
+  - Zhidong Tu
+  publisher: Cell
+  date: '2020-01-01'
+  link: https://doi.org/grzhkk
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2020.05.002
+  title: 'Immunology of COVID-19: Current State of the Science'
+  authors:
+  - Nicolas Vabret
+  - Graham J. Britton
+  - Conor Gruber
+  - Samarth Hegde
+  - Joel Kim
+  - Maria Kuksin
+  - Rachel Levantovsky
+  - Louise Malle
+  - Alvaro Moreira
+  - Matthew D. Park
+  - Luisanna Pia
+  - Emma Risson
+  - Miriam Saffern
+  - "B\xE9reng\xE8re Salom\xE9"
+  - Myvizhi Esai Selvan
+  - Matthew P. Spindler
+  - Jessica Tan
+  - Verena van der Heide
+  - Jill K. Gregory
+  - Konstantina Alexandropoulos
+  - Nina Bhardwaj
+  - Brian D. Brown
+  - Benjamin Greenbaum
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Dirk Homann
+  - Amir Horowitz
+  - Alice O. Kamphorst
+  - Maria A. Curotto de Lafaille
+  - Saurabh Mehandru
+  - Miriam Merad
+  - Robert M. Samstein
+  - Manasi Agrawal
+  - Mark Aleynick
+  - Meriem Belabed
+  - Matthew Brown
+  - Maria Casanova-Acebes
+  - Jovani Catalan
+  - Monica Centa
+  - Andrew Charap
+  - Andrew Chan
+  - Steven T. Chen
+  - Jonathan Chung
+  - Cansu Cimen Bozkus
+  - Evan Cody
+  - Francesca Cossarini
+  - Erica Dalla
+  - Nicolas Fernandez
+  - John Grout
+  - Dan Fu Ruan
+  - Pauline Hamon
+  - Etienne Humblin
+  - Divya Jha
+  - Julia Kodysh
+  - Andrew Leader
+  - Matthew Lin
+  - Katherine Lindblad
+  - Daniel Lozano-Ojalvo
+  - Gabrielle Lubitz
+  - Assaf Magen
+  - Zafar Mahmood
+  - Gustavo Martinez-Delgado
+  - Jaime Mateus-Tique
+  - Elliot Meritt
+  - Chang Moon
+  - Justine Noel
+  - "Tim O\u2019Donnell"
+  - Miyo Ota
+  - Tamar Plitt
+  - Venu Pothula
+  - Jamie Redes
+  - Ivan Reyes Torres
+  - Mark Roberto
+  - Alfonso R. Sanchez-Paulete
+  - Joan Shang
+  - Alessandra Soares Schanoski
+  - Maria Suprun
+  - Michelle Tran
+  - Natalie Vaninov
+  - C. Matthias Wilk
+  - Julio Aguirre-Ghiso
+  - Dusan Bogunovic
+  - Judy Cho
+  - Jeremiah Faith
+  - Emilie Grasset
+  - Peter Heeger
+  - Ephraim Kenigsberg
+  - Florian Krammer
+  - Uri Laserson
+  publisher: Immunity
+  date: '2020-06-01'
+  link: https://doi.org/ggt54g
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jtho.2020.08.017
+  title: Inherited Rare, Deleterious Variants in ATM Increase Lung Adenocarcinoma
+    Risk
+  authors:
+  - Myvizhi Esai Selvan
+  - Marjorie G. Zauderer
+  - Charles M. Rudin
+  - "Si\xE2n Jones"
+  - Semanti Mukherjee
+  - Kenneth Offit
+  - Kenan Onel
+  - Gad Rennert
+  - Victor E. Velculescu
+  - Steven M. Lipkin
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Journal of Thoracic Oncology
+  date: '2020-12-01'
+  link: https://doi.org/grzhkm
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.03.19.20034942
+  title: Inherited rare, deleterious variants in <i>ATM</i> increase lung adenocarcinoma
+    risk
+  authors:
+  - Myvizhi Esai Selvan
+  - Marjorie G. Zauderer
+  - Charles M. Rudin
+  - "Si\xE2n Jones"
+  - Semanti Mukherjee
+  - Kenneth Offit
+  - Kenan Onel
+  - Gad Rennert
+  - Victor E. Velculescu
+  - Steven M. Lipkin
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-03-23'
+  link: https://doi.org/grzhkn
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2020.10.044
+  title: Integrated Proteogenomic Characterization across Major Histological Types
+    of Pediatric Brain Cancer
+  authors:
+  - Francesca Petralia
+  - Nicole Tignor
+  - Boris Reva
+  - Mateusz Koptyra
+  - Shrabanti Chowdhury
+  - Dmitry Rykunov
+  - Azra Krek
+  - Weiping Ma
+  - Yuankun Zhu
+  - Jiayi Ji
+  - Anna Calinawan
+  - Jeffrey R. Whiteaker
+  - Antonio Colaprico
+  - Vasileios Stathias
+  - Tatiana Omelchenko
+  - Xiaoyu Song
+  - Pichai Raman
+  - Yiran Guo
+  - Miguel A. Brown
+  - Richard G. Ivey
+  - John Szpyt
+  - Sanjukta Guha Thakurta
+  - Marina A. Gritsenko
+  - Karl K. Weitz
+  - Gonzalo Lopez
+  - Selim Kalayci
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Seungyeul Yoo
+  - Felipe da Veiga Leprevost
+  - Hui-Yin Chang
+  - Karsten Krug
+  - Lizabeth Katsnelson
+  - Ying Wang
+  - Jacob J. Kennedy
+  - Uliana J. Voytovich
+  - Lei Zhao
+  - Krutika S. Gaonkar
+  - Brian M. Ennis
+  - Bo Zhang
+  - Valerie Baubet
+  - Lamiya Tauhid
+  - Jena V. Lilly
+  - Jennifer L. Mason
+  - Bailey Farrow
+  - Nathan Young
+  - Sarah Leary
+  - Jamie Moon
+  - Vladislav A. Petyuk
+  - Javad Nazarian
+  - Nithin D. Adappa
+  - James N. Palmer
+  - Robert M. Lober
+  - Samuel Rivero-Hinojosa
+  - Liang-Bo Wang
+  - Joshua M. Wang
+  - Matilda Broberg
+  - Rosalie K. Chu
+  - Ronald J. Moore
+  - Matthew E. Monroe
+  - Rui Zhao
+  - Richard D. Smith
+  - Jun Zhu
+  - Ana I. Robles
+  - Mehdi Mesri
+  - Emily Boja
+  - Tara Hiltke
+  - Henry Rodriguez
+  - Bing Zhang
+  - Eric E. Schadt
+  - D.R. Mani
+  - Li Ding
+  - Antonio Iavarone
+  - Maciej Wiznerowicz
+  - "Stephan Sch\xFCrer"
+  - Xi S. Chen
+  - Allison P. Heath
+  - Jo Lynne Rokita
+  - Alexey I. Nesvizhskii
+  - "David Feny\xF6"
+  - Karin D. Rodland
+  - Tao Liu
+  - Steven P. Gygi
+  - Amanda G. Paulovich
+  - Adam C. Resnick
+  - Phillip B. Storm
+  - Brian R. Rood
+  - Pei Wang
+  - Alicia Francis
+  - Allison M. Morgan
+  - Angela J. Waanders
+  - Angela N. Viaene
+  - Anna Maria Buccoliero
+  - Arul M. Chinnaiyan
+  - Carina A. Leonard
+  - Cassie N. Kline
+  - Chiara Caporalini
+  - Christopher R. Kinsinger
+  - Chunde Li
+  - David E. Kram
+  - Derek Hanson
+  - Elizabeth Appert
+  - Emily A. Kawaler
+  - Eric H. Raabe
+  - Eric M. Jackson
+  - Jeffrey P. Greenfield
+  - Gabrielle S. Stone
+  - Gad Getz
+  - Gerald Grant
+  - Guo Ci Teo
+  - Ian F. Pollack
+  - Jason E. Cain
+  - Jessica B. Foster
+  - Joanna J. Phillips
+  - July E. Palma
+  - Karen A. Ketchum
+  - Kelly V. Ruggles
+  - Lili Blumenberg
+  - Macintosh Cornwell
+  - Mahdi Sarmady
+  - Marcin J. Domagalski
+  - "Marcin P. Cie\u015Blik"
+  - Mariarita Santi
+  - Marilyn M. Li
+  - Matthew J. Ellis
+  - Matthew A. Wyczalkowski
+  - Meghan Connors
+  - Mirko Scagnet
+  - Nalin Gupta
+  - Nathan J. Edwards
+  - Nicholas A. Vitanza
+  - Olena M. Vaske
+  - Oren Becher
+  - Peter B. McGarvey
+  - Ron Firestein
+  - Sabine Mueller
+  - Samuel G. Winebrake
+  - Saravana Mohan Dhanasekaran
+  - Shuang Cai
+  - Sonia Partap
+  - Tatiana Patton
+  - Toan Le
+  - Travis D. Lorentzen
+  - Wenke Liu
+  - William E. Bocik
+  publisher: Cell
+  date: '2020-12-01'
+  link: https://doi.org/ghqjkz
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.202000043
+  title: "ProNetView\u2010ccRCC: A Web\u2010Based Portal to Interactively Explore\
+    \ Clear Cell Renal Cell Carcinoma Proteogenomics Networks"
+  authors:
+  - Selim Kalayci
+  - Francesca Petralia
+  - Pei Wang
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: PROTEOMICS
+  date: '2020-05-27'
+  link: https://doi.org/gm5wzn
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.03.12.981357
+  title: 'ProNetView-ccRCC: A web-based portal to interactively explore clear cell
+    renal cell carcinoma proteogenomics networks'
+  authors:
+  - Selim Kalayci
+  - Francesca Petralia
+  - Pei Wang
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-03-12'
+  link: https://doi.org/gk23k9
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2020.06.013
+  title: Proteogenomic Characterization Reveals Therapeutic Vulnerabilities in Lung
+    Adenocarcinoma
+  authors:
+  - Michael A. Gillette
+  - Shankha Satpathy
+  - Song Cao
+  - Saravana M. Dhanasekaran
+  - Suhas V. Vasaikar
+  - Karsten Krug
+  - Francesca Petralia
+  - Yize Li
+  - Wen-Wei Liang
+  - Boris Reva
+  - Azra Krek
+  - Jiayi Ji
+  - Xiaoyu Song
+  - Wenke Liu
+  - Runyu Hong
+  - Lijun Yao
+  - Lili Blumenberg
+  - Sara R. Savage
+  - Michael C. Wendl
+  - Bo Wen
+  - Kai Li
+  - Lauren C. Tang
+  - Melanie A. MacMullan
+  - Shayan C. Avanessian
+  - M. Harry Kane
+  - Chelsea J. Newton
+  - MacIntosh Cornwell
+  - Ramani B. Kothadia
+  - Weiping Ma
+  - Seungyeul Yoo
+  - Rahul Mannan
+  - Pankaj Vats
+  - Chandan Kumar-Sinha
+  - Emily A. Kawaler
+  - Tatiana Omelchenko
+  - Antonio Colaprico
+  - Yifat Geffen
+  - Yosef E. Maruvka
+  - Felipe da Veiga Leprevost
+  - Maciej Wiznerowicz
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Rajwanth R. Veluswamy
+  - Galen Hostetter
+  - David I. Heiman
+  - Matthew A. Wyczalkowski
+  - Tara Hiltke
+  - Mehdi Mesri
+  - Christopher R. Kinsinger
+  - Emily S. Boja
+  - Gilbert S. Omenn
+  - Arul M. Chinnaiyan
+  - Henry Rodriguez
+  - Qing Kay Li
+  - Scott D. Jewell
+  - Mathangi Thiagarajan
+  - Gad Getz
+  - Bing Zhang
+  - "David Feny\xF6"
+  - Kelly V. Ruggles
+  - Marcin P. Cieslik
+  - Ana I. Robles
+  - Karl R. Clauser
+  - Ramaswamy Govindan
+  - Pei Wang
+  - Alexey I. Nesvizhskii
+  - Li Ding
+  - D.R. Mani
+  - Steven A. Carr
+  - Alex Webster
+  - Alicia Francis
+  - Alyssa Charamut
+  - Amanda G. Paulovich
+  - Amy M. Perou
+  - Andrew K. Godwin
+  - Andrii Karnuta
+  - Annette Marrero-Oliveras
+  - Barbara Hindenach
+  - Barbara Pruetz
+  - Bartosz Kubisa
+  - Brian J. Druker
+  - Chet Birger
+  - Corbin D. Jones
+  - Dana R. Valley
+  - Daniel C. Rohrer
+  - Daniel Cui Zhou
+  - Daniel W. Chan
+  - David Chesla
+  - David J. Clark
+  - Dmitry Rykunov
+  - Donghui Tan
+  - Elena V. Ponomareva
+  - Elizabeth Duffy
+  - Eric J. Burks
+  - Eric E. Schadt
+  - Erik J. Bergstrom
+  - Eugene S. Fedorov
+  - Ewa Malc
+  - George D. Wilson
+  - Hai-Quan Chen
+  - Halina M. Krzystek
+  - Hongwei Liu
+  - Houston Culpepper
+  - Hua Sun
+  - Hui Zhang
+  - Jacob Day
+  - James Suh
+  - Jeffrey R. Whiteaker
+  - Jennifer Eschbacher
+  - John McGee
+  - Karen A. Ketchum
+  - Karin D. Rodland
+  - Karna Robinson
+  - Katherine A. Hoadley
+  - Kei Suzuki
+  - Ki Sung Um
+  - Kim Elburn
+  - Liang-Bo Wang
+  - Lijun Chen
+  - Linda Hannick
+  - Liqun Qi
+  - Lori J. Sokoll
+  - "Ma\u0142gorzata Wojty\u015B"
+  - Marcin J. Domagalski
+  - Marina A. Gritsenko
+  - Mary B. Beasley
+  - Matthew E. Monroe
+  - Matthew J. Ellis
+  - Maureen Dyer
+  - Meghan C. Burke
+  - Melissa Borucki
+  - Meng-Hong Sun
+  - Michael H. Roehrl
+  - Michael J. Birrer
+  - Michael Noble
+  - Michael Schnaubelt
+  - Michael Vernon
+  - Michelle Chaikin
+  - Mikhail Krotevich
+  - Munziba Khan
+  - Myvizhi Esai Selvan
+  - Nancy Roche
+  - Nathan J. Edwards
+  - Negin Vatanian
+  - Olga Potapova
+  - Pamela Grady
+  - Peter B. McGarvey
+  - Piotr Mieczkowski
+  - Pushpa Hariharan
+  - Rashna Madan
+  - Ratna R. Thangudu
+  - Richard D. Smith
+  - Robert J. Welsh
+  - Robert Zelt
+  - Rohit Mehra
+  - Ronald Matteotti
+  - Sailaja Mareedu
+  - Samuel H. Payne
+  - Sandra Cottingham
+  - Sanford P. Markey
+  - Seema Chugh
+  - Shaleigh Smith
+  - Shirley Tsang
+  - Shuang Cai
+  - Simina M. Boca
+  - Sonya Carter
+  - Stacey Gabriel
+  - Stephanie De Young
+  - Stephen E. Stein
+  - Sunita Shankar
+  - Tanya Krubit
+  - Tao Liu
+  - Tara Skelly
+  - Thomas Bauer
+  - Uma Velvulou
+  - Umut Ozbek
+  - Vladislav A. Petyuk
+  - Volodymyr Sovenko
+  - William E. Bocik
+  - William W. Maggio
+  - Xi Chen
+  - Yan Shi
+  - Yige Wu
+  - Yingwei Hu
+  - Yuxing Liao
+  - Zhen Zhang
+  - Zhiao Shi
+  publisher: Cell
+  date: '2020-07-01'
+  link: https://doi.org/gg4gsj
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cancers11111651
+  title: Identification of SERPINE1 as a Regulator of Glioblastoma Cell Dispersal
+    with Transcriptome Profiling
+  authors:
+  - Fidan Seker
+  - Ahmet Cingoz
+  - "\u0130lknur Sur-Erdem"
+  - Nazli Erguder
+  - Alp Erkent
+  - "F\u0131rat Uyulur"
+  - Myvizhi Esai Selvan
+  - "Zeynep H\xFClya G\xFCm\xFC\u015F"
+  - "Mehmet G\xF6nen"
+  - Halil Bayraktar
+  - Hiroaki Wakimoto
+  - Tugba Bagci-Onder
+  publisher: Cancers
+  date: '2019-10-25'
+  link: https://doi.org/ghfcqf
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2019.10.007
+  title: Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma
+  authors:
+  - David J. Clark
+  - Saravana M. Dhanasekaran
+  - Francesca Petralia
+  - Jianbo Pan
+  - Xiaoyu Song
+  - Yingwei Hu
+  - Felipe da Veiga Leprevost
+  - Boris Reva
+  - Tung-Shing M. Lih
+  - Hui-Yin Chang
+  - Weiping Ma
+  - Chen Huang
+  - Christopher J. Ricketts
+  - Lijun Chen
+  - Azra Krek
+  - Yize Li
+  - Dmitry Rykunov
+  - Qing Kay Li
+  - Lin S. Chen
+  - Umut Ozbek
+  - Suhas Vasaikar
+  - Yige Wu
+  - Seungyeul Yoo
+  - Shrabanti Chowdhury
+  - Matthew A. Wyczalkowski
+  - Jiayi Ji
+  - Michael Schnaubelt
+  - Andy Kong
+  - Sunantha Sethuraman
+  - Dmitry M. Avtonomov
+  - Minghui Ao
+  - Antonio Colaprico
+  - Song Cao
+  - Kyung-Cho Cho
+  - Selim Kalayci
+  - Shiyong Ma
+  - Wenke Liu
+  - Kelly Ruggles
+  - Anna Calinawan
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Daniel Geiszler
+  - Emily Kawaler
+  - Guo Ci Teo
+  - Bo Wen
+  - Yuping Zhang
+  - Sarah Keegan
+  - Kai Li
+  - Feng Chen
+  - Nathan Edwards
+  - Phillip M. Pierorazio
+  - Xi Steven Chen
+  - Christian P. Pavlovich
+  - A. Ari Hakimi
+  - Gabriel Brominski
+  - James J. Hsieh
+  - Andrzej Antczak
+  - Tatiana Omelchenko
+  - Jan Lubinski
+  - Maciej Wiznerowicz
+  - W. Marston Linehan
+  - Christopher R. Kinsinger
+  - Mathangi Thiagarajan
+  - Emily S. Boja
+  - Mehdi Mesri
+  - Tara Hiltke
+  - Ana I. Robles
+  - Henry Rodriguez
+  - Jiang Qian
+  - "David Feny\xF6"
+  - Bing Zhang
+  - Li Ding
+  - Eric Schadt
+  - Arul M. Chinnaiyan
+  - Zhen Zhang
+  - Gilbert S. Omenn
+  - Marcin Cieslik
+  - Daniel W. Chan
+  - Alexey I. Nesvizhskii
+  - Pei Wang
+  - Hui Zhang
+  - Abdul Samad Hashimi
+  - Alexander R. Pico
+  - Alla Karpova
+  - Alyssa Charamut
+  - Amanda G. Paulovich
+  - Amy M. Perou
+  - Anna Malovannaya
+  - Annette Marrero-Oliveras
+  - Anupriya Agarwal
+  - Barbara Hindenach
+  - Barbara Pruetz
+  - Beom-Jun Kim
+  - Brian J. Druker
+  - Chelsea J. Newton
+  - Chet Birger
+  - Corbin D. Jones
+  - Cristina Tognon
+  - D.R. Mani
+  - Dana R. Valley
+  - Daniel C. Rohrer
+  - Daniel C. Zhou
+  - Darlene Tansil
+  - David Chesla
+  - David Heiman
+  - David Wheeler
+  - Donghui Tan
+  - Doug Chan
+  - Emek Demir
+  - Ewa Malc
+  - Francesmary Modugno
+  - Gaddy Getz
+  - Galen Hostetter
+  - George D. Wilson
+  - Gerald W. Hart
+  - Heng Zhu
+  - Hongwei Liu
+  - Houston Culpepper
+  - Hua Sun
+  - Hua Zhou
+  - Jacob Day
+  - James Suh
+  - Jasmine Huang
+  - Jason McDermott
+  - Jeffrey R. Whiteaker
+  - Jeffrey W. Tyner
+  - Jennifer Eschbacher
+  - Jin Chen
+  - John McGee
+  - Jun Zhu
+  - Karen A. Ketchum
+  - Karin D. Rodland
+  - Karl Clauser
+  - Karna Robinson
+  - Karsten Krug
+  - Katherine A. Hoadley
+  - Ki Sung Um
+  - Kim Elburn
+  - Kimberly Holloway
+  - Liang-Bo Wang
+  - Lili Blumenberg
+  - Linda Hannick
+  - Liqun Qi
+  - Lori J. Sokoll
+  - MacIntosh Cornwell
+  - Marc Loriaux
+  - Marcin J. Domagalski
+  - Marina A. Gritsenko
+  - Matthew Anderson
+  - Matthew E. Monroe
+  - Matthew J. Ellis
+  - Maureen Dyer
+  - Meenakshi Anurag
+  - Meghan C. Burke
+  - Melissa Borucki
+  - Michael A. Gillette
+  - Michael J. Birrer
+  - Michael Lewis
+  - Michael M. Ittmann
+  - Michael Smith
+  - Michael Vernon
+  - Michelle Chaikin
+  - Milan G. Chheda
+  - Munziba Khan
+  - Nancy Roche
+  - Nathan J. Edwards
+  - Negin Vatanian
+  - Nicole Tignor
+  - Noam Beckmann
+  - Pamela Grady
+  - Patricia Castro
+  - Paul Piehowski
+  - Peter B. McGarvey
+  - Piotr Mieczkowski
+  - Pushpa Hariharan
+  - Qingsong Gao
+  - Rajiv Dhir
+  - Ramani Bhupendra Kothadia
+  - Ratna R. Thangudu
+  - Rebecca Montgomery
+  - Reyka G. Jayasinghe
+  - Richard D. Smith
+  - Robert Edwards
+  - Robert Zelt
+  - Ross Bremner
+  - Ruiyang Liu
+  - Runyu Hong
+  - Sailaja Mareedu
+  - Samuel H. Payne
+  - Sandra Cottingham
+  - Sanford P. Markey
+  - Scott D. Jewell
+  - Shalin Patel
+  - Shankha Satpathy
+  - Shannon Richey
+  - Sherri R. Davies
+  - Shuang Cai
+  - Simina M. Boca
+  - Snehal Patil
+  - Sohini Sengupta
+  - Sonya Carter
+  - Stacey Gabriel
+  - Stefani N. Thomas
+  - Stephanie De Young
+  - Stephen E. Stein
+  - Steven A. Carr
+  - Steven M. Foltz
+  - Sue Hilsenbeck
+  - Tanya Krubit
+  - Tao Liu
+  - Tara Skelly
+  - Thomas Westbrook
+  - Uma Borate
+  - Uma Velvulou
+  - Vladislav A. Petyuk
+  - William E. Bocik
+  - Xi Chen
+  - Yan Shi
+  - Yifat Geffen
+  - Yihao Lu
+  - Ying Wang
+  - Yosef Maruvka
+  - Zhi Li
+  - Zhiao Shi
+  - Zhidong Tu
+  publisher: Cell
+  date: '2019-10-01'
+  link: https://doi.org/gghh73
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.38805
+  title: Ancestral reconstruction reveals mechanisms of ERK regulatory evolution
+  authors:
+  - Dajun Sang
+  - Sudarshan Pinglay
+  - Rafal P Wiewiora
+  - Myvizhi E Selvan
+  - Hua Jane Lou
+  - John D Chodera
+  - Benjamin E Turk
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Liam J Holt
+  publisher: eLife
+  date: '2019-08-13'
+  link: https://doi.org/grxpzp
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/178483
+  title: Oncogenic G12D mutation alters local conformations and dynamics of K-Ras
+  authors:
+  - Sezen Vatansever
+  - Burak Erman
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-08-19'
+  link: https://doi.org/gkvjf4
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-48029-z
+  title: Oncogenic G12D mutation alters local conformations and dynamics of K-Ras
+  authors:
+  - Sezen Vatansever
+  - Burak Erman
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Scientific Reports
+  date: '2019-08-13'
+  link: https://doi.org/grxpzq
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/biom9110706
+  title: 'Dynamical Rearrangement of Human Epidermal Growth Factor Receptor 2 upon
+    Antibody Binding: Effects on the Dimerization'
+  authors:
+  - " Magalh\xE3es"
+  - ' Machuqueiro'
+  - ' Almeida'
+  - ' Melo'
+  - ' D. S. Cordeiro'
+  - ' Verde'
+  - " G\xFCm\xFC\u015F"
+  - ' Moreira'
+  - ' D. G. Correia'
+  - ' Melo'
+  publisher: Biomolecules
+  date: '2019-11-05'
+  link: https://doi.org/grzhkq
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/752980
+  title: 'Dynamical rearrangement of human epidermal growth factor receptor 2 upon
+    antibody binding: effects on the dimerization'
+  authors:
+  - "Pedro R. Magalh\xE3es"
+  - Miguel Machuqueiro
+  - "Jos\xE9 G. Almeida"
+  - "Andr\xE9 Melo"
+  - M. Natalia D. S. Cordeiro
+  - Sandra Cabo Verde
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Irina S. Moreira
+  - "Jo\xE3o D. G. Correia"
+  - Rita Melo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-30'
+  link: https://doi.org/gkz3p3
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkz450
+  title: 'ImmuneRegulation: a web-based tool for identifying human immune regulatory
+    elements'
+  authors:
+  - Selim Kalayci
+  - Myvizhi Esai Selvan
+  - Irene Ramos
+  - Chris Cotsapas
+  - Eva Harris
+  - Eun-Young Kim
+  - Ruth R Montgomery
+  - Gregory Poland
+  - Bali Pulendran
+  - John S Tsang
+  - Robert J Klein
+  - "Zeynep H G\xFCm\xFC\u015F"
+  publisher: Nucleic Acids Research
+  date: '2019-05-22'
+  link: https://doi.org/ghjx8h
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/468124
+  title: 'ImmuneRegulation: A web-based tool for identifying human immune regulatory
+    elements'
+  authors:
+  - Selim Kalayci
+  - Myvizhi Esai Selvan
+  - Irene Ramos
+  - Chris Cotsapas
+  - Ruth R. Montgomery
+  - Gregory Poland
+  - Bali Pulendran
+  - John Tsang
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-11-11'
+  link: https://doi.org/gkxjq4
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-18-2660
+  title: Rare, Pathogenic Germline Variants in <i>Fanconi Anemia</i> Genes Increase
+    Risk for Squamous Lung Cancer
+  authors:
+  - Myvizhi Esai Selvan
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Clinical Cancer Research
+  date: '2019-03-01'
+  link: https://doi.org/grzhkr
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/269837
+  title: Rare, pathogenic germline variants in <i>Fanconi Anemia</i> genes increase
+    risk for squamous lung cancer
+  authors:
+  - Myvizhi Esai Selvan
+  - Robert J. Klein
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-02-22'
+  link: https://doi.org/gkvr8t
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/331637
+  title: Ancestral resurrection reveals mechanisms of kinase regulatory evolution
+  authors:
+  - Dajun Sang
+  - Sudarshan Pinglay
+  - Sezen Vatansever
+  - Hua Jane Lou
+  - Benjamin Turk
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Liam J. Holt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-05-25'
+  link: https://doi.org/gkw5m2
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aat8464
+  title: Comprehensive functional genomic resource and integrative model for the human
+    brain
+  authors:
+  - Daifeng Wang
+  - Shuang Liu
+  - Jonathan Warrell
+  - Hyejung Won
+  - Xu Shi
+  - Fabio C. P. Navarro
+  - Declan Clarke
+  - Mengting Gu
+  - Prashant Emani
+  - Yucheng T. Yang
+  - Min Xu
+  - Michael J. Gandal
+  - Shaoke Lou
+  - Jing Zhang
+  - Jonathan J. Park
+  - Chengfei Yan
+  - Suhn Kyong Rhie
+  - Kasidet Manakongtreecheep
+  - Holly Zhou
+  - Aparna Nathan
+  - Mette Peters
+  - Eugenio Mattei
+  - Dominic Fitzgerald
+  - Tonya Brunetti
+  - Jill Moore
+  - Yan Jiang
+  - Kiran Girdhar
+  - Gabriel E. Hoffman
+  - Selim Kalayci
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Gregory E. Crawford
+  - Panos Roussos
+  - Schahram Akbarian
+  - Andrew E. Jaffe
+  - Kevin P. White
+  - Zhiping Weng
+  - Nenad Sestan
+  - Daniel H. Geschwind
+  - James A. Knowles
+  - Mark B. Gerstein
+  - Allison E. Ashley-Koch
+  - Gregory E. Crawford
+  - Melanie E. Garrett
+  - Lingyun Song
+  - Alexias Safi
+  - Graham D. Johnson
+  - Gregory A. Wray
+  - Timothy E Reddy
+  - Fernando S. Goes
+  - Peter Zandi
+  - Julien Bryois
+  - Andrew E. Jaffe
+  - Amanda J. Price
+  - Nikolay A. Ivanov
+  - Leonardo Collado-Torres
+  - Thomas M. Hyde
+  - Emily E. Burke
+  - Joel E. Kleiman
+  - Ran Tao
+  - Joo Heon Shin
+  - Schahram Akbarian
+  - Kiran Girdhar
+  - Yan Jiang
+  - Marija Kundakovic
+  - Leanne Brown
+  - Bibi S. Kassim
+  - Royce B. Park
+  - Jennifer R Wiseman
+  - Elizabeth Zharovsky
+  - Rivka Jacobov
+  - Olivia Devillers
+  - Elie Flatow
+  - Gabriel E. Hoffman
+  - Barbara K. Lipska
+  - David A. Lewis
+  - Vahram Haroutunian
+  - Chang-Gyu Hahn
+  - Alexander W. Charney
+  - Stella Dracheva
+  - Alexey Kozlenkov
+  - Judson Belmont
+  - Diane DelValle
+  - Nancy Francoeur
+  - Evi Hadjimichael
+  - Dalila Pinto
+  - Harm van Bakel
+  - Panos Roussos
+  - John F. Fullard
+  - Jaroslav Bendl
+  - Mads E. Hauberg
+  - Lara M Mangravite
+  - Mette A. Peters
+  - Yooree Chae
+  - Junmin Peng
+  - Mingming Niu
+  - Xusheng Wang
+  - Maree J. Webster
+  - Thomas G. Beach
+  - Chao Chen
+  - Yi Jiang
+  - Rujia Dai
+  - Annie W. Shieh
+  - Chunyu Liu
+  - Kay S. Grennan
+  - Yan Xia
+  - Ramu Vadukapuram
+  - Yongjun Wang
+  - Dominic Fitzgerald
+  - Lijun Cheng
+  - Miguel Brown
+  - Mimi Brown
+  - Tonya Brunetti
+  - Thomas Goodman
+  - Majd Alsayed
+  - Michael J. Gandal
+  - Daniel H. Geschwind
+  - Hyejung Won
+  - Damon Polioudakis
+  - Brie Wamsley
+  - Jiani Yin
+  - Tarik Hadzic
+  - Luis De La Torre Ubieta
+  - Vivek Swarup
+  - Stephan J. Sanders
+  - Matthew W. State
+  - Donna M. Werling
+  - Joon-Yong An
+  - Brooke Sheppard
+  - A. Jeremy Willsey
+  - Kevin P. White
+  - Mohana Ray
+  - Gina Giase
+  - Amira Kefi
+  - Eugenio Mattei
+  - Michael Purcaro
+  - Zhiping Weng
+  - Jill Moore
+  - Henry Pratt
+  - Jack Huey
+  - Tyler Borrman
+  - Patrick F. Sullivan
+  - Paola Giusti-Rodriguez
+  - Yunjung Kim
+  - Patrick Sullivan
+  - Jin Szatkiewicz
+  - Suhn Kyong Rhie
+  - Christoper Armoskus
+  - Adrian Camarena
+  - Peggy J. Farnham
+  - Valeria N. Spitsyna
+  - Heather Witt
+  - Shannon Schreiner
+  - Oleg V. Evgrafov
+  - James A. Knowles
+  - Mark Gerstein
+  - Shuang Liu
+  - Daifeng Wang
+  - Fabio C. P. Navarro
+  - Jonathan Warrell
+  - Declan Clarke
+  - Prashant S. Emani
+  - Mengting Gu
+  - Xu Shi
+  - Min Xu
+  - Yucheng T. Yang
+  - Robert R. Kitchen
+  - "Gamze G\xFCrsoy"
+  - Jing Zhang
+  - Becky C. Carlyle
+  - Angus C. Nairn
+  - Mingfeng Li
+  - Sirisha Pochareddy
+  - Nenad Sestan
+  - Mario Skarica
+  - Zhen Li
+  - Andre M. M. Sousa
+  - Gabriel Santpere
+  - Jinmyung Choi
+  - Ying Zhu
+  - Tianliuyun Gao
+  - Daniel J. Miller
+  - Adriana Cherskov
+  - Mo Yang
+  - Anahita Amiri
+  - Gianfilippo Coppola
+  - Jessica Mariani
+  - Soraya Scuderi
+  - Anna Szekely
+  - Flora M. Vaccarino
+  - Feinan Wu
+  - Sherman Weissman
+  - Tanmoy Roychowdhury
+  - Alexej Abyzov
+  - ' '
+  publisher: Science
+  date: '2018-12-14'
+  link: https://doi.org/gfrbr4
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cpbi.47
+  title: Exploring Biological Networks in 3D, Stereoscopic 3D, and Immersive 3D with
+    iCAVE
+  authors:
+  - Selim Kalayci
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Current Protocols in Bioinformatics
+  date: '2018-03-01'
+  link: https://doi.org/grzhks
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00439-018-1886-z
+  title: 'High-depth whole genome sequencing of an Ashkenazi Jewish reference panel:
+    enhancing sensitivity, accuracy, and imputation'
+  authors:
+  - Todd Lencz
+  - Jin Yu
+  - Cameron Palmer
+  - Shai Carmi
+  - Danny Ben-Avraham
+  - Nir Barzilai
+  - Susan Bressman
+  - Ariel Darvasi
+  - Judy H. Cho
+  - Lorraine N. Clark
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Vijai Joseph
+  - Robert Klein
+  - Steven Lipkin
+  - Kenneth Offit
+  - Harry Ostrer
+  - Laurie J. Ozelius
+  - Inga Peter
+  - Gil Atzmon
+  - "Itsik Pe\u2019er"
+  publisher: Human Genetics
+  date: '2018-04-01'
+  link: https://doi.org/gdjgtv
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2018.04.011
+  title: Landscape of Conditional eQTL in Dorsolateral Prefrontal Cortex and Co-localization
+    with Schizophrenia GWAS
+  authors:
+  - Amanda Dobbyn
+  - Laura M. Huckins
+  - James Boocock
+  - Laura G. Sloofman
+  - Benjamin S. Glicksberg
+  - Claudia Giambartolomei
+  - Gabriel E. Hoffman
+  - Thanneer M. Perumal
+  - Kiran Girdhar
+  - Yan Jiang
+  - Towfique Raj
+  - Douglas M. Ruderfer
+  - Robin S. Kramer
+  - Dalila Pinto
+  - Schahram Akbarian
+  - Panos Roussos
+  - Enrico Domenici
+  - Bernie Devlin
+  - Pamela Sklar
+  - Eli A. Stahl
+  - Solveig K. Sieberts
+  - Pamela Sklar
+  - Joseph Buxbaum
+  - Bernie Devlin
+  - David Lewis
+  - Raquel Gur
+  - Chang-Gyu Hahn
+  - Keisuke Hirai
+  - Hiroyoshi Toyoshiba
+  - Enrico Domenici
+  - Laurent Essioux
+  - Lara Mangravite
+  - Mette Peters
+  - Thomas Lehner
+  - Barbara Lipska
+  - A. Ercument Cicek
+  - Cong Lu
+  - Kathryn Roeder
+  - Lu Xie
+  - Konrad Talbot
+  - Scott E. Hemby
+  - Laurent Essioux
+  - Andrew Browne
+  - Andrew Chess
+  - Aaron Topol
+  - Alexander Charney
+  - Amanda Dobbyn
+  - Ben Readhead
+  - Bin Zhang
+  - Dalila Pinto
+  - David A. Bennett
+  - David H. Kavanagh
+  - Douglas M. Ruderfer
+  - Eli A. Stahl
+  - Eric E. Schadt
+  - Gabriel E. Hoffman
+  - Hardik R. Shah
+  - Jun Zhu
+  - Jessica S. Johnson
+  - John F. Fullard
+  - Joel T. Dudley
+  - Kiran Girdhar
+  - Kristen J. Brennand
+  - Laura G. Sloofman
+  - Laura M. Huckins
+  - Menachem Fromer
+  - Milind C. Mahajan
+  - Panos Roussos
+  - Schahram Akbarian
+  - Shaun M. Purcell
+  - Tymor Hamamsy
+  - Towfique Raj
+  - Vahram Haroutunian
+  - Ying-Chih Wang
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Geetha Senthil
+  - Robin Kramer
+  - Benjamin A. Logsdon
+  - Jonathan M.J. Derry
+  - Kristen K. Dang
+  - Solveig K. Sieberts
+  - Thanneer M. Perumal
+  - Roberto Visintainer
+  - Leslie A. Shinobu
+  - Patrick F. Sullivan
+  - Lambertus L. Klei
+  publisher: The American Journal of Human Genetics
+  date: '2018-06-01'
+  link: https://doi.org/gdrkmr
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/212126
+  title: Exploring biological networks in 3D, stereoscopic 3D and immersive 3D with
+    iCAVE
+  authors:
+  - "Selim Kalayc\u0131"
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-11-06'
+  link: https://doi.org/gkw3zk
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1200/PO.17.00149
+  title: "Germline and Somatic Smoothened Mutations in Non\u2013Small-Cell Lung Cancer\
+    \ Are Potentially Responsive to Hedgehog Inhibitor Vismodegib"
+  authors:
+  - Anne S. Tsao
+  - Ignacio Wistuba
+  - Dianren Xia
+  - Lauren Byers
+  - Lixia Diao
+  - Jing Wang
+  - Vassiliki Papadimitrakopoulou
+  - Ximing Tang
+  - Wei Lu
+  - Humam Kadara
+  - Dimitry N. Grigoryev
+  - Myvizhi Esai Selvan
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Zhi Tan
+  - Shuxing Zhang
+  - Monique Nilsson
+  - John V. Heymach
+  publisher: JCO Precision Oncology
+  date: '2017-11-01'
+  link: https://doi.org/grzhkt
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/167924
+  title: 'High-depth whole genome sequencing of a large population-specific reference
+    panel: Enhancing sensitivity, accuracy, and imputation'
+  authors:
+  - Todd Lencz
+  - Jin Yu
+  - Cameron Palmer
+  - Shai Carmi
+  - Danny Ben-Avraham
+  - Nir Barzilai
+  - Susan Bressman
+  - Ariel Darvasi
+  - Judy H. Cho
+  - Lorraine N. Clark
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Vijai Joseph
+  - Robert Klein
+  - Steven Lipkin
+  - Kenneth Offit
+  - Harry Ostrer
+  - Laurie J. Ozelius
+  - Inga Peter
+  - Gil Atzmon
+  - "Itsik Pe\u2019er"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-07-24'
+  link: https://doi.org/gkvrgw
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18632/oncotarget.17776
+  title: Inhibition of colorectal cancer genomic copy number alterations and chromosomal
+    fragile site tumor suppressor FHIT and WWOX deletions by DNA mismatch repair
+  authors:
+  - Sohail Jahid
+  - Jian Sun
+  - Ozkan Gelincik
+  - Pedro Blecua
+  - Winfried Edelmann
+  - Raju Kucherlapati
+  - Kathy Zhou
+  - Maria Jasin
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Steven M. Lipkin
+  publisher: Oncotarget
+  date: '2017-05-10'
+  link: https://doi.org/f98tdn
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/CDDIS.2017.288
+  title: KDM2B, an H3K36-specific demethylase, regulates apoptotic response of GBM
+    cells to TRAIL
+  authors:
+  - Ibrahim Cagri Kurt
+  - Ilknur Sur
+  - Ezgi Kaya
+  - Ahmet Cingoz
+  - Selena Kazancioglu
+  - Zeynep Kahya
+  - Omer Duhan Toparlak
+  - Filiz Senbabaoglu
+  - Zeynep Kaya
+  - Ezgi Ozyerli
+  - "Sercin Karah\xFCseyinoglu"
+  - Nathan A Lack
+  - "Zeynep H G\xFCm\xFCs"
+  - Tamer T Onder
+  - Tugba Bagci-Onder
+  publisher: Cell Death &amp; Disease
+  date: '2017-06-29'
+  link: https://doi.org/gbj4k8
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-08321-2
+  title: 'SpotOn: High Accuracy Identification of Protein-Protein Interface Hot-Spots'
+  authors:
+  - Irina S. Moreira
+  - Panagiotis I. Koukos
+  - Rita Melo
+  - Jose G. Almeida
+  - Antonio J. Preto
+  - Joerg Schaarschmidt
+  - Mikael Trellet
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Joaquim Costa
+  - Alexandre M. J. J. Bonvin
+  publisher: Scientific Reports
+  date: '2017-08-14'
+  link: https://doi.org/gbsv6f
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5524/100288
+  title: 'Supporting data for "iCAVE: an open source tool for visualizing biomolecular
+    networks in 3D, stereoscopic 3D and immersive 3D"'
+  authors:
+  - Vaja Liluashvili
+  - Selim Kalayci
+  - Eugene Fluder
+  - Manda Wilson
+  - Aaron Gabow
+  - "Zeynep H G\xFCm\xFC\u015F"
+  publisher: GigaScience Database
+  date: '2017-01-01'
+  link: https://doi.org/grxpzr
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/gix054
+  title: 'iCAVE: an open source tool for visualizing biomolecular networks in 3D,
+    stereoscopic 3D and immersive 3D'
+  authors:
+  - Vaja Liluashvili
+  - Selim Kalayci
+  - Eugene Fluder
+  - Manda Wilson
+  - Aaron Gabow
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  publisher: GigaScience
+  date: '2017-07-15'
+  link: https://doi.org/gbrwcw
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms17081215
+  title: A Machine Learning Approach for Hot-Spot Detection at Protein-Protein Interfaces
+  authors:
+  - Rita Melo
+  - Robert Fieldhouse
+  - "Andr\xE9 Melo"
+  - "Jo\xE3o Correia"
+  - Maria Cordeiro
+  - "Zeynep G\xFCm\xFC\u015F"
+  - Joaquim Costa
+  - Alexandre Bonvin
+  - Irina Moreira
+  publisher: International Journal of Molecular Sciences
+  date: '2016-07-27'
+  link: https://doi.org/f83zn2
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nn.4399
+  title: Gene expression elucidates functional impact of polygenic risk for schizophrenia
+  authors:
+  - Menachem Fromer
+  - Panos Roussos
+  - Solveig K Sieberts
+  - Jessica S Johnson
+  - David H Kavanagh
+  - Thanneer M Perumal
+  - Douglas M Ruderfer
+  - Edwin C Oh
+  - Aaron Topol
+  - Hardik R Shah
+  - Lambertus L Klei
+  - Robin Kramer
+  - Dalila Pinto
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - A Ercument Cicek
+  - Kristen K Dang
+  - Andrew Browne
+  - Cong Lu
+  - Lu Xie
+  - Ben Readhead
+  - Eli A Stahl
+  - Jianqiu Xiao
+  - Mahsa Parvizi
+  - Tymor Hamamsy
+  - John F Fullard
+  - Ying-Chih Wang
+  - Milind C Mahajan
+  - Jonathan M J Derry
+  - Joel T Dudley
+  - Scott E Hemby
+  - Benjamin A Logsdon
+  - Konrad Talbot
+  - Towfique Raj
+  - David A Bennett
+  - Philip L De Jager
+  - Jun Zhu
+  - Bin Zhang
+  - Patrick F Sullivan
+  - Andrew Chess
+  - Shaun M Purcell
+  - Leslie A Shinobu
+  - Lara M Mangravite
+  - Hiroyoshi Toyoshiba
+  - Raquel E Gur
+  - Chang-Gyu Hahn
+  - David A Lewis
+  - Vahram Haroutunian
+  - Mette A Peters
+  - Barbara K Lipska
+  - Joseph D Buxbaum
+  - Eric E Schadt
+  - Keisuke Hirai
+  - Kathryn Roeder
+  - Kristen J Brennand
+  - Nicholas Katsanis
+  - Enrico Domenici
+  - Bernie Devlin
+  - Pamela Sklar
+  publisher: Nature Neuroscience
+  date: '2016-09-26'
+  link: https://doi.org/f3vd45
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep37012
+  title: 'Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method
+    shows causality between residue pair motions'
+  authors:
+  - Sezen Vatansever
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Burak Erman
+  publisher: Scientific Reports
+  date: '2016-11-15'
+  link: https://doi.org/f9bxb6
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nbt.3239
+  title: Comprehensive models of human primary and metastatic colorectal tumors in
+    immunodeficient and immunocompetent mice by chemokine targeting
+  authors:
+  - Huanhuan Joyce Chen
+  - Jian Sun
+  - Zhiliang Huang
+  - Harry Hou
+  - Myra Arcilla
+  - Nikolai Rakhilin
+  - Daniel J Joe
+  - Jiahn Choi
+  - Poornima Gadamsetty
+  - Jeff Milsom
+  - Govind Nandakumar
+  - Randy Longman
+  - Xi Kathy Zhou
+  - Robert Edwards
+  - Jonlin Chen
+  - Kai Yuan Chen
+  - Pengcheng Bu
+  - Lihua Wang
+  - Yitian Xu
+  - Robert Munroe
+  - Christian Abratte
+  - Andrew D Miller
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Michael Shuler
+  - Nozomi Nishimura
+  - Winfried Edelmann
+  - Xiling Shen
+  - Steven M Lipkin
+  publisher: Nature Biotechnology
+  date: '2015-05-25'
+  link: https://doi.org/f7fp96
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms7879
+  title: "miR-1269 promotes metastasis and forms a positive feedback loop with TGF-\u03B2"
+  authors:
+  - Pengcheng Bu
+  - Lihua Wang
+  - Kai-Yuan Chen
+  - Nikolai Rakhilin
+  - Jian Sun
+  - Adria Closa
+  - Kuei-Ling Tung
+  - Sarah King
+  - Anastasia Kristine Varanko
+  - Yitian Xu
+  - Joyce Huan Chen
+  - Amelia S. Zessin
+  - James Shealy
+  - Bethany Cummings
+  - David Hsu
+  - Steven M. Lipkin
+  - Victor Moreno
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Xiling Shen
+  publisher: Nature Communications
+  date: '2015-04-15'
+  link: https://doi.org/ghp85v
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.stem.2013.03.002
+  title: A microRNA miR-34a-Regulated Bimodal Switch Targets Notch in Colon Cancer
+    Stem Cells
+  authors:
+  - Pengcheng Bu
+  - Kai-Yuan Chen
+  - "Joyce\_Huan Chen"
+  - Lihua Wang
+  - Jewell Walters
+  - "Yong\_Jun Shin"
+  - "Julian\_P. Goerger"
+  - Jian Sun
+  - Mavee Witherspoon
+  - Nikolai Rakhilin
+  - Jiahe Li
+  - Herman Yang
+  - Jeff Milsom
+  - Sang Lee
+  - Warren Zipfel
+  - "Moonsoo\_M. Jin"
+  - "Zeynep\_H. G\xFCm\xFC\u015F"
+  - "Steven\_M. Lipkin"
+  - Xiling Shen
+  publisher: Cell Stem Cell
+  date: '2013-05-01'
+  link: https://doi.org/f433w3
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1235587
+  title: 'Integrative Annotation of Variants from 1092 Humans: Application to Cancer
+    Genomics'
+  authors:
+  - Ekta Khurana
+  - Yao Fu
+  - Vincenza Colonna
+  - Xinmeng Jasmine Mu
+  - Hyun Min Kang
+  - Tuuli Lappalainen
+  - Andrea Sboner
+  - Lucas Lochovsky
+  - Jieming Chen
+  - Arif Harmanci
+  - Jishnu Das
+  - Alexej Abyzov
+  - Suganthi Balasubramanian
+  - Kathryn Beal
+  - Dimple Chakravarty
+  - Daniel Challis
+  - Yuan Chen
+  - Declan Clarke
+  - Laura Clarke
+  - Fiona Cunningham
+  - Uday S. Evani
+  - Paul Flicek
+  - Robert Fragoza
+  - Erik Garrison
+  - Richard Gibbs
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Javier Herrero
+  - Naoki Kitabayashi
+  - Yong Kong
+  - Kasper Lage
+  - Vaja Liluashvili
+  - Steven M. Lipkin
+  - Daniel G. MacArthur
+  - Gabor Marth
+  - Donna Muzny
+  - Tune H. Pers
+  - Graham R. S. Ritchie
+  - Jeffrey A. Rosenfeld
+  - Cristina Sisu
+  - Xiaomu Wei
+  - Michael Wilson
+  - Yali Xue
+  - Fuli Yu
+  - Emmanouil T. Dermitzakis
+  - Haiyuan Yu
+  - Mark A. Rubin
+  - Chris Tyler-Smith
+  - Mark Gerstein
+  - ' '
+  publisher: Science
+  date: '2013-10-04'
+  link: https://doi.org/f56wqk
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI62110
+  title: "Chemokine 25\u2013induced signaling suppresses colon cancer invasion and\
+    \ metastasis"
+  authors:
+  - Huanhuan Joyce Chen
+  - Robert Edwards
+  - Serena Tucci
+  - Pengcheng Bu
+  - Jeff Milsom
+  - Sang Lee
+  - Winfried Edelmann
+  - "Zeynep H. G\xFCm\xFCs"
+  - Xiling Shen
+  - Steven Lipkin
+  publisher: Journal of Clinical Investigation
+  date: '2012-09-04'
+  link: https://doi.org/f38277
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1530-0277.2012.01791.x
+  title: 'Rapid Temporal Changes in the Expression of a Set of Neuromodulatory Genes
+    During Alcohol Withdrawal in the Dorsal Vagal Complex: Molecular Evidence of Homeostatic
+    Disturbance'
+  authors:
+  - Kate Freeman
+  - Mary M. Staehle
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Rajanikanth Vadigepalli
+  - Gregory E. Gonye
+  - Carmen N. Nichols
+  - Babatunde A. Ogunnaike
+  - Jan B. Hoek
+  - James S. Schwaber
+  publisher: 'Alcoholism: Clinical and Experimental Research'
+  date: '2012-04-06'
+  link: https://doi.org/ghpp4z
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/DMA-2012-0860
+  title: Resistance/Response Molecular Signature for Oral Tongue Squamous Cell Carcinoma
+  authors:
+  - Amritha Suresh
+  - Muhil Vannan
+  - Dhanya Kumaran
+  - "Zeynep H. G\xFCm\xFCs"
+  - Priya Sivadas
+  - Elango Erode Murugaian
+  - Vikram Kekatpure
+  - Subramanian Iyer
+  - Kumarasamy Thangaraj
+  - Moni Abraham Kuriakose
+  publisher: Disease Markers
+  date: '2012-01-01'
+  link: https://doi.org/gcfb88
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.CD-11-0267
+  title: <i>miR-23a</i> Promotes the Transition from Indolent to Invasive Colorectal
+    Cancer
+  authors:
+  - Sohail Jahid
+  - Jian Sun
+  - Robert A. Edwards
+  - Diana Dizon
+  - Nicole C. Panarelli
+  - Jeffrey W. Milsom
+  - Shaheen S. Sikandar
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Steven M. Lipkin
+  publisher: Cancer Discovery
+  date: '2012-06-01'
+  link: https://doi.org/f35kx7
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1940-6207.CAPR-09-0192
+  title: Effects of Cigarette Smoke on the Human Oral Mucosal Transcriptome
+  authors:
+  - Jay O. Boyle
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Ashutosh Kacker
+  - Vishal L. Choksi
+  - Jennifer M. Bocker
+  - Xi Kathy Zhou
+  - Rhonda K. Yantiss
+  - Duncan B. Hughes
+  - Baoheng Du
+  - Benjamin L. Judson
+  - Kotha Subbaramaiah
+  - Andrew J. Dannenberg
+  publisher: Cancer Prevention Research
+  date: '2010-03-01'
+  link: https://doi.org/d3h7hx
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBE.2010.46
+  title: Quantification and Analysis of Combination Drug Synergy in High-Throughput
+    Transcriptome Studies
+  authors:
+  - "Zeynep H. G\xFCm\xFCs"
+  - Fernando Siso-Nadal
+  - Ada Gjrezi
+  - Paul McDonagh
+  - Iya Khalil
+  - Paraskevi Giannakakou
+  - Harel Weinstein
+  publisher: 2010 IEEE International Conference on BioInformatics and BioEngineering
+  date: '2010-01-01'
+  link: https://doi.org/d7thc6
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuropharm.2008.07.049
+  title: 'Towards a quantitative representation of the cell signaling mechanisms of
+    hallucinogens: Measurement and mathematical modeling of 5-HT1A and 5-HT2A receptor-mediated
+    ERK1/2 activation'
+  authors:
+  - Chiung-wen Chang
+  - Ethan Poteet
+  - John A. Schetz
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Harel Weinstein
+  publisher: Neuropharmacology
+  date: '2009-01-01'
+  link: https://doi.org/fvj8jp
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10287-005-0025-1
+  title: Global optimization of mixed-integer bilevel programming problems
+  authors:
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Christodoulos A. Floudas
+  publisher: Computational Management Science
+  date: '2005-07-01'
+  link: https://doi.org/fxd9nf
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1023/A:1011268113791
+  title: ''
+  authors:
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Christodoulos A. Floudas
+  publisher: Journal of Global Optimization
+  date: '2001-01-01'
+  link: https://doi.org/cssn4j
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ie001014g
+  title: "Global Optimization in Design under Uncertainty:\u2009 Feasibility Test\
+    \ and Flexibility Index Problems"
+  authors:
+  - Christodoulos A. Floudas
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - ' Marianthi G. Ierapetritou'
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2001-05-09'
+  link: https://doi.org/fkhwzt
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1570-7946(01)80061-4
+  title: 'Nonlinear bilevel programming: A deterministic global optimization framework'
+  authors:
+  - "Z.H. G\xFCm\xFC\u015F"
+  - C.A. Floudas
+  publisher: Computer Aided Chemical Engineering
+  date: '2001-01-01'
+  link: https://doi.org/ftdmjj
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0098-1354(97)87630-2
+  title: Reactive distillation column design with vapor/liquid/liquid equilibria
+  authors:
+  - Zeynep H. Gumus
+  - Amy R. Ciric
+  publisher: Computers &amp; Chemical Engineering
+  date: '1997-05-01'
+  link: https://doi.org/bg6d86
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml

@@ -1,0 +1,41 @@
+- title: ImmuneRegulation
+  subtitle: 
+  group: 
+  image: images/immune-regulation.png
+  link: https://immuneregulation.mssm.edu/
+  description: ImmuneRegulation provides visualization, exploration, and download of large-number of regulatory data through a single, and intuitive interface.
+  repo: 
+  tags: 
+
+- title: CPTAC-CCRCC
+  subtitle: 
+  group: 
+  image: images/CPTAC-CCRCC.png
+  link: http://ccrcc.cptac-network-view.org/
+  description: This page provides visualization of the networks estimated based on proteogenomic data from CPTAC-CCRCC discovery project.
+  repo: 
+  tags: 
+
+- title: PhosNetVis
+  subtitle: 
+  group: 
+  image: images/phosnetvis.jpeg
+  link: https://phosnetvis.app/
+  description: PhosNetVis is a web-based platform for integrated kinase enrichment analyses and interactive 3D network visualizations of phosphoproteomics datasets.
+  repo: 
+  tags:
+
+- title: PREDICTNet
+  subtitle: 
+  image: images/predictnet.png
+  link: https://gumuslab.github.io/PREDICTNet/
+  description: Multi-omics network analyses to identify key drivers of disease initiation and progression in the preclinical phase of inflammatory bowel disease (IBD).
+  repo: 
+  tags: 
+
+- title: interactome-CAVE (iCAVE)
+  subtitle: 
+  image: images/icave.gif
+  link: iCAVE
+  description: iCAVE automatically generates intuitive visualizations that maximize understanding of the underlying network structures in complex networks.
+  tags: 

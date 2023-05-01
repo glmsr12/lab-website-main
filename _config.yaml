@@ -1,0 +1,61 @@
+# site properties and page defaults
+title: Zeynep H. G&#252m&#252&#351 Lab
+subtitle: at The Icahn School of Medicine at Mount Sinai
+description: false
+header: false
+footer: false
+logo: false
+
+# site social media and other links
+links:
+  email: zeynep.gumus@mssm.edu
+  orcid: 0000-0002-7364-2202
+  google-scholar: N0FiVZ4AAAAJ
+  github: GumusLab
+  twitter: ZeynepHG
+ # instagram: false
+ # youtube: false
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      type: members
+    values:
+      layout: member
+  - scope:
+      type: posts
+    values:
+      layout: post
+collections:
+  members:
+    output: true
+  posts:
+    output: true
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+highlighter: rouge
+theme: null
+sass:
+  sass_dir: _styles
+include:
+  - _styles
+  - _scripts
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
+email: contact@GumusLab.com
+github: GumusLab
+twitter: GumusLab
+instagram: GumusLab
+youtube: GumusLab
