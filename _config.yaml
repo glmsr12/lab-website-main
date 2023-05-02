@@ -2,7 +2,7 @@
 title: Zeynep H. G&#252m&#252&#351 Lab
 subtitle: at The Icahn School of Medicine at Mount Sinai
 description: false
-header: false
+header: images/headerimg.jpg
 footer: false
 logo: false
 
@@ -13,15 +13,15 @@ links:
   google-scholar: N0FiVZ4AAAAJ
   github: GumusLab
   twitter: ZeynepHG
- # instagram: false
- # youtube: false
+  # instagram: false
+  # youtube: false
 
 ### jekyll settings
 
 # front matter defaults
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
       layout: default
   - scope:
